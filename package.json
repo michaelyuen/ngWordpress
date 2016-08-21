@@ -2,10 +2,10 @@
 	"name": "angular-wordpress",
 	"version": "0.1.0",
 	"description": "Angular module that provides a service for interacting with the Wordpress REST API v2",
+	"license": "MIT",
+	"author": "Michael Yuen <michaelclaytonyuen@gmail.com>",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/michaelyuen/ngWordpress.git"
-	},
-	"author": "Michael Yuen - michaelclaytonyuen@gmail.com",
-	"license": "MIT"
+	}
 }
